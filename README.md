@@ -1,16 +1,77 @@
-## Hi there 👋
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 **Data Enthusiast !!** 
 
-<!--
-**datawithbiswajeet/datawithbiswajeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.postimg.cc/VN7ZTWfb/Untitled-design.gif"100%">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi , I'm Biswajeet Prasad</h1>
+<h3 align="center">
+  A passionate and detail-oriented data analyst with a knack for transforming raw data into actionable insights.
+  This repository is a curated collection of my projects, showcasing my skills and journey in the field of Data Analytics.
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=datawithbiswajeet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+## About me 👀
+
+
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkwOTM4ODYsIm5iZiI6MTc0OTA5MzU4NiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA1VDAzMTk0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1Yzk0YmYyYzFhMTA2YTBmYTI5NmE3MGJmOWExZGVjMzIyMzYxNTFjNWEzN2RkZTc0MDJkYzhhMDc0ZWUxNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AK6MglVfX3z-v63IMURn8VpzkzFsHW6YLTZxpifLILI">
+
+I'm Biswajeet Prasad 😊 
+
+
+- 🎓 Graduated in B.Sc Maths (Statistics)
+- 🔭 Currently working as a **Freelance Data Analyst**
+- 🌱 Learning **Python** and **Advanced SQL**
+- 👯 Looking to collaborate on ... **Myself**
+- 🤔 Seeking help with ... **Conversion of Knowledge to Excellence**
+- 💬 Ask me about ... **Whatever I Can Answer 😄**
+- 📫 Reach me at: **datawithbiswajeet@gmail.com**
+- 😄 Pronouns: **He/Him/Mr.**
+
+A learner on the way to explore!
+
+---
+
+
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
+ </a>
+</p>
+
+
+---
+
+
+
+### 🌐 Reach out to me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/datawithbiswajeet/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@biswajeetprasad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
+
+<h2 align="center">𝑱𝒐𝒌𝒆 𝑶𝒇 𝑻𝒉𝒆 𝑫𝒂𝒚</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api/?username=riturajgupta21&theme=react" alt="Jokes Card" />
+</p>
+
+<img align="left" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" />
+<img align="right" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" />
