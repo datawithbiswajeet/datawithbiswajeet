@@ -52,17 +52,18 @@ A learner on the way to explore!
 
 
 
-### 🌐 Reach out to me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/datawithbiswajeet/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@biswajeetprasad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
 
+# 🔗 Connect with Me
+    Let’s connect and collaborate!
+
+### 💼 LinkedIn: [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/datawithbiswajeet) <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=datawithbiswajeet" target="_blank">Follow on LinkedIn</a>
+
+### 🙌 Stay Connected [![Follow on GitHub](https://img.shields.io/github/followers/datawithbiswajeet?label=Follow%20Me&style=social)](https://github.com/datawithbiswajeet)
+
+### 📧 Email: [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail)](mailto:datawithbiswajeet@gmail.com)
+
+### 👨‍💻 HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-Visit-green?style=social&logo=HackerRank)](https://www.hackerrank.com/profile/biswajeetprasad)
 
 
 
