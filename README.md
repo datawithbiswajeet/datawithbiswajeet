@@ -42,8 +42,20 @@ A learner on the way to explore!
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
+ <a href="#">
+    <img src="https://github.com/datawithbiswajeet/datawithbiswajeet/blob/main/jqycac4nitgaoauawrxg.webp" alt="Custom Power BI Icon" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://github.com/datawithbiswajeet/datawithbiswajeet/blob/main/microsoft-excel-icon-transparent-background-free-png.webp" alt="Excel" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://github.com/datawithbiswajeet/datawithbiswajeet/blob/main/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail.png" alt="Azure SQL" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://github.com/datawithbiswajeet/datawithbiswajeet/blob/main/png-transparent-tableau-full-logo-tech-companies-thumbnail.png" alt="Tableau" width="50" height="50"/>
+  </a>
+
  </a>
 </p>
 
