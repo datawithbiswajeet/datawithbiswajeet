@@ -24,7 +24,7 @@ I'm Biswajeet Prasad 😊
 - 🎓 Graduated in B.Sc Maths (Statistics)
 - 🔭 Currently working as a **Freelance Data Analyst**
 - 🌱 Learning **Python** and **Advanced SQL**
-- 👯 Looking to collaborate on ... **Myself**
+- 👯 Looking to collaborate on ... **Data Projects**
 - 🤔 Seeking help with ... **Conversion of Knowledge to Excellence**
 - 💬 Ask me about ... **Whatever I Can Answer 😄**
 - 📫 Reach me at: **datawithbiswajeet@gmail.com**
