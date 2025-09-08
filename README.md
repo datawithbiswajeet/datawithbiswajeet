@@ -81,10 +81,7 @@ A learner on the way to explore!
 
 
 
-<h2 align="center">𝑱𝒐𝒌𝒆 𝑶𝒇 𝑻𝒉𝒆 𝑫𝒂𝒚</h2>
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api/?username=riturajgupta21&theme=react" alt="Jokes Card" />
-</p>
+
 
 <img align="left" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" />
 <img align="right" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" />
